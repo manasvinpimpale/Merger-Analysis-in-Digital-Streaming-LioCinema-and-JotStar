@@ -1,8 +1,8 @@
 # 📊 Strategic OTT Insights: LioCinema and Jotstar Merger Analysis
 
-## 🔗 Live Dashboard
+## 🔗 Important Links
 [Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDlkZDhhZTgtNzE4Ni00MDNiLTkxZjktNzIzZGM3N2IwNjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
+[Video Presentation](https://youtu.be/IPfL5B4t2YI)
 ---
 
 ## 📌 Project Overview
